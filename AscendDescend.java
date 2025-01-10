@@ -1,7 +1,7 @@
 //Print the numbers in ascending and descending order 
 import java.util.Scanner;
 
-class printReverse{
+class AscendDescend{
     public static void main(String args[]){
         Scanner myObj = new Scanner(System.in);
 
