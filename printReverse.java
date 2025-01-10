@@ -1,5 +1,4 @@
 //Print the numbers in ascending and descending order 
-
 import java.util.Scanner;
 
 class printReverse{
